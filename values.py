@@ -50,7 +50,7 @@ maindb = client.bot['main']
 antidb = redis.Redis(host='http://redis-15224.c284.us-east1-2.gce.cloud.redislabs.com', port=15224, password='7uqkU7tRhgE3bU9DHIxTpgowVJJiu3Cz')
 
 BOT_USERNAME = 'alphamaster_bot'
-loggp = -1924666696
+loggp = -5578003206
 waste_cards = [1,2,7,8,9,0]
 banned_bins = open('files/bannedbin.txt', 'r').readlines()
 admins = open('files/admins.txt', 'r').readlines()
